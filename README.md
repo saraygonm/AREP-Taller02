@@ -205,8 +205,7 @@ Los navegadores bloquean solicitudes DELETE por seguridad, entonces para probar 
 **DELETE:**
 
 - `/api/services/{id}:` Elimina una reserva específica.
-
-- `/api/services/clear:` Borra todas las reservas.
+.
 
 -------------------- 
 ### 🌐 Frontend
